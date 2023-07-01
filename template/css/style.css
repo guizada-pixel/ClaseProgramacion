@@ -12,7 +12,7 @@
 body {
   background: #fff;
   color: #444;
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Marcador permanente', cursiva;
 }
 
 a {
@@ -39,7 +39,8 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Montserrat", sans-serif;
+  
+  font-family: 'Marcador permanente', cursiva;
   font-weight: 400;
   margin: 0 0 20px 0;
   padding: 0;
@@ -625,11 +626,11 @@ h6 {
 }
 
 #services .title a {
-  color: #111;
+  color: #242323;
 }
 
 #services .box:hover .title a {
-  color: #007bff;
+  color: #e92222;
 }
 
 #services .description {
@@ -641,7 +642,7 @@ h6 {
 
 #why-us {
   padding: 60px 0;
-  background: #004a99;
+  background: #a8acac;
 }
 
 #why-us .section-header h3,
@@ -650,8 +651,8 @@ h6 {
 }
 
 #why-us .card {
-  background: #00458f;
-  border-color: #00458f;
+  background: #e92145;
+  border-color: #e92145;
   border-radius: 10px;
   margin: 0 15px;
   padding: 15px 0;
@@ -662,14 +663,14 @@ h6 {
 }
 
 #why-us .card:hover {
-  background: #003b7a;
-  border-color: #003b7a;
+  background: #4b4848;
+  border-color: #4b4848;
 }
 
 #why-us .card i {
   font-size: 48px;
   padding-top: 15px;
-  color: #bfddfe;
+  color: #272424;
 }
 
 #why-us .card h5 {
@@ -699,7 +700,7 @@ h6 {
 }
 
 #why-us .counters span {
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Marcador permanente', cursiva;
   font-weight: bold;
   font-size: 48px;
   display: block;
@@ -709,7 +710,7 @@ h6 {
 #why-us .counters p {
   padding: 0;
   margin: 0 0 20px 0;
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Marcador permanente', cursiva;
   font-size: 14px;
   color: #cce5ff;
 }
