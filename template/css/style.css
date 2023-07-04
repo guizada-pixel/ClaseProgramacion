@@ -265,9 +265,9 @@ h6 {
   display: block;
   position: relative;
   color: #0f0f0f;
-  padding: 10px 15px;
+  padding: 15px 20px;
   transition: 0.3s;
-  font-size: 14px;
+  font-size: 15px;
   font-family: "Montserrat", sans-serif;
   font-weight: 500;
 }
@@ -457,7 +457,7 @@ h6 {
 
 .section-header h3 {
   font-size: 36px;
-  color: #283d50;
+  color: #444;
   text-align: center;
   font-weight: 500;
   position: relative;
@@ -466,9 +466,9 @@ h6 {
 .section-header p {
   text-align: center;
   margin: auto;
-  font-size: 15px;
+  font-size: 20px;
   padding-bottom: 60px;
-  color: #556877;
+  color: #444;
   width: 50%;
 }
 
@@ -476,7 +476,7 @@ h6 {
 --------------------------------*/
 
 .section-bg {
-  background: #ecf5ff;
+  background: #c1c1c1;
 }
 
 /* About Us Section
@@ -549,7 +549,7 @@ h6 {
 }
 
 #about .about-container .icon-box:hover .icon {
-  background: #111111;
+  background: #434344;
 }
 
 #about .about-container .icon-box:hover .icon i {
@@ -564,7 +564,7 @@ h6 {
 }
 
 #about .about-container .icon-box .title a {
-  color: #283d50;
+  color: #434344;
 }
 
 #about .about-container .icon-box .description {
@@ -642,7 +642,7 @@ h6 {
 
 #why-us {
   padding: 60px 0;
-  background: #a8acac;
+  background: #c1c1c1;
 }
 
 #why-us .section-header h3,
