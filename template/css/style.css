@@ -651,13 +651,13 @@ h6 {
 }
 
 #why-us .card {
-  background: #e92145;
-  border-color: #e92145;
+  background: #f7f3f3;
+  border-color: #f7f3f3;z
   border-radius: 10px;
   margin: 0 15px;
   padding: 15px 0;
   text-align: center;
-  color: #fff;
+  color:  #6c757d
   transition: 0.3s ease-in-out;
   height: 100%;
 }
@@ -680,7 +680,7 @@ h6 {
 
 #why-us .card p {
   font-size: 15px;
-  color: #d8eafe;
+  color: #444;
 }
 
 #why-us .card .readmore {
@@ -712,7 +712,7 @@ h6 {
   margin: 0 0 20px 0;
   font-family: 'Marcador permanente', cursiva;
   font-size: 14px;
-  color: #cce5ff;
+  color: #444;
 }
 
 /* Portfolio Section
@@ -737,17 +737,17 @@ h6 {
   padding: 6px 20px;
   font-size: 12px;
   line-height: 20px;
-  color: #007bff;
+  color: #444;
   border-radius: 50px;
   text-transform: uppercase;
-  background: #ecf5ff;
+  background: #c1c1c1
   margin-bottom: 5px;
   transition: all 0.3s ease-in-out;
 }
 
 #portfolio #portfolio-flters li:hover,
 #portfolio #portfolio-flters li.filter-active {
-  background: #007bff;
+  background: #444;
   color: #fff;
 }
 
@@ -1017,8 +1017,8 @@ h6 {
 }
 
 #clients .clients-wrap {
-  border-top: 1px solid #d6eaff;
-  border-left: 1px solid #d6eaff;
+  border-top: 1px solid #aaadb1;
+  border-left: 1px solid #aaadb1;
   margin-bottom: 30px;
 }
 
@@ -1036,8 +1036,8 @@ h6 {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  border-right: 1px solid #d6eaff;
-  border-bottom: 1px solid #d6eaff;
+  border-right: 1px solid #aaadb1;
+  border-bottom: 1px solid #aaadb1;
   overflow: hidden;
   background: #fff;
   height: 160px;
@@ -1115,7 +1115,7 @@ h6 {
 
 #contact .info i {
   font-size: 32px;
-  color: #007bff;
+  color: #444;
   float: left;
   line-height: 1;
 }
@@ -1168,7 +1168,7 @@ h6 {
 }
 
 #contact .form button[type="submit"] {
-  background: #007bff;
+  background: #444;
   border: 0;
   border-radius: 20px;
   padding: 8px 30px;
